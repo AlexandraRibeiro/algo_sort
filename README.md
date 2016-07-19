@@ -8,4 +8,4 @@ Date de réalisation : 02/2016
 Projet :
 Ranger une pile
 
-Makefile : création de l'executable lem-in
+Makefile : création de l'executable push_swap
